@@ -1,0 +1,9 @@
+.Entrar{
+  display: block;
+  position: absolute;
+  top: 510px;
+  left: 630px;
+}
+.Entrar h1{
+  color: white;
+}
