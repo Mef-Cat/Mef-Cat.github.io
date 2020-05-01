@@ -1,0 +1,143 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>BLACK CAT NEWS</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="../ECONOMIA/layout/styles/layout.css" type="text/css" />
+<script type="text/javascript" src="../ECONOMIA/layout/scripts/jquery.min.js"></script>
+<script type="text/javascript" src="../ECONOMIA/layout/scripts/jquery.jcarousel.pack.js"></script>
+<script type="text/javascript" src="../ECONOMIA/layout/scripts/jquery.jcarousel.setup.js"></script>
+</head>
+<body id="top">
+<!-- ####################################################################################################### -->
+<div class="wrapper col1">
+<div id="logo">
+    <h1>&nbsp;</h1>
+  <img src="IMAGENES/LOGO.jpg" width="104" height="120">  </div>
+  <div id="header">
+<div id="topnav">
+      <ul>
+        <li><a href="#">ECONOMIA</a>
+	 <ul>	
+	    <li><a href="bolsadevalores.html">BOLSA DE VALORES</a></li>
+            <li><a href="ESTADISTICAS.html">NOTICIAS</a></li>
+	 </ul>
+        <li><a href="#">CIENCIA</a></li>
+        <li><a href="#">GASTRONOMIA</a></li>
+        <li><a href="#">CULTURA</a></li></li>
+	<li><a href="#">ENTRETENIMIENTO</a></li>
+	<li><a href="#">TECNOLOGIAS</a></li>
+        </li>
+        <li class="last"><a href="#">INICIO</a></li>
+     </ul>	
+    </div>
+<br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col2">
+  <div id="featured_slide">
+    <div id="featured_content">
+      <ul>
+        <li><img src="../ECONOMIA/IMAGENES/noticia1.jpg" alt="" />
+          <div>
+            <p><strong>EEUU y México concuerdan sobre importancia de comercio, a pesar de restricciones en frontera!</strong></p>
+            <p>WASHINGTON/CIUDAD DE MÉXICO, 21 mar (Reuters) - El presidente de Estados Unidos, Donald Trump, y su homólogo mexicano, Andrés Manuel López Obrador, concordaron el sábado en la importancia de preservar el comercio bilateral pese a las restricciones en la frontera entre ambos países para luchar contra el coronavirus, dijo un portavoz de la Casa Blanca.</p>
+            <p class="readmore"><a href="ESTADISTICAS.html">Continue leyendo &raquo;</a></p>
+          </div>
+        </li>
+        <li><img src="IMAGENES/noticia2.jpg" alt="" />
+          <div class="floater">
+            <p><strong>Peso mexicano cae a un nuevo mínimo histórico de 24.863/dlr en negociaciones internacionales.</strong></p>
+            <p>CIUDAD DE MÉXICO, 22 mar (Reuters) - El peso mexicano se hundió el domingo a un nuevo mínimo nivel histórico de 24.863 por dólar, tras nuevas advertencias de un gran salto en el desempleo en Estados Unidos debido al impacto económico del coronavirus, dijeron analistas.</p>
+            <p class="readmore"><a href="ESTADISTICAS.html">Continuar leyendo &raquo;</a></p>
+          </div>
+        </li>
+        <li><img src="IMAGENES/noticia3.jpg" alt="" />
+          <div class="floater">
+            <p><strong>5 cosas a vigilar esta semana en los mercados financieros.</strong></p>
+            <P>Investing.com - Esta semana, los observadores del mercado estarán pendientes de los gobiernos y los bancos centrales para conocer las primeras indicaciones sobre la magnitud del impacto de la pandemia del coronavirus, pero la atención se centrará en la respuesta de los gobiernos y los bancos centrales que están implementando medidas de estímulo ante los temores del mercado sobre si las medidas anunciadas hasta ahora serán adecuadas. Esto es lo que necesita saber para comenzar su semana.</P>
+<p class="readmore"><a href="ESTADISTICAS.html">Continue leyendo &raquo;</a></p>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <a href="javascript:void(0);" id="featured-item-prev"><img src="../ECONOMIA/layout/images/prev.png" alt="" /></a> <a href="javascript:void(0);" id="featured-item-next"><img src="../ECONOMIA/layout/images/next.png" alt="" /></a> </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col3">
+  <div id="container">
+    <div class="homepage">
+      <ul>
+        <li>
+          <h2><img src="../ECONOMIA/IMAGENES/noticia4.jpg" width="92" height="93"></h2>
+          <strong>EN Fitch dice riegos para bancos mexicanos aumentan debido a incertidumbre por coronavirus</strong><br>
+          <br>
+          <p>* Fitch dice riesgos de rebaja de calificación de bancos en México se incrementa debido a incertidumbre por coronavirus.</p>
+          <p class="readmore"><a href="ESTADISTICAS.html">continue leyendo &raquo;</a></p>
+        </li>
+        <li>
+          <h2><img src="../ECONOMIA/IMAGENES/noticia5.jpg" width="115" height="79"></h2><strong>FMI dice que el mundo tendrá una recesión económica mayor o igual que la de 2009</strong>
+          <p>Infosel, marzo. 23.- La economía del mundo vivirá este año una crisis igual o incluso mayor que la ocurrida hace más de una década, durante la llamada Gran Recesión global, por los efectos negativos que provocará en varias naciones la pandemia de coronavirus codi-19, dijo Kristalina Georgieva, la directora gerente del Fondo Monetario Internacional.</p>
+          <p class="readmore"><a href="ESTADISTICAS.html">Continue leyendo &raquo;</a></p>
+        </li>
+        <li class="last">
+          <h2><img src="../ECONOMIA/IMAGENES/noti6.jpg" width="287" height="115"></h2><strong>Venezuela reporta siete nuevos casos de coronavirus, total de infectados sube a 84</strong>
+          <p>CARACAS, 23 mar (Reuters) - Venezuela elevó el lunes a 84 el número de casos confirmados de coronavirus desde los 77 que se habían contabilizado hasta el día previo, dijo la vicepresidenta ejecutiva, en medio de una cuarentena que busca contener los contagios en la ya precaria nación OPEP</p>
+          <p class="readmore"><a href="ESTADISTICAS.html">Continue leyendo &raquo;</a></p>
+        </li>
+      </ul>
+      <br class="clear" />
+    </div>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col4">
+  <div id="footer">
+    <div class="box1">
+      <h2>Un poco de información de la empresa !</h2>
+      <img src="IMAGENES/LOGO.jpg" alt="" width="154" height="155" class="imgl" />
+      <p> 
+		  
+		Nuestro proposito es ser una empresa lider,confiable y de excelencia cuyos contenidos periodísticos y servicios sean los mejores basandose siempre en un trabajo de calidad y responsabilidad para nuestros lectores.</p>
+    
+    </div>
+    <div class="box contactdetails">
+      <h2>CONTACTOS !</h2>
+      <ul>
+        <li>NOMBRE DE COMPAÑIA:BLACK CAT NEWS</li>
+        <li>calle y numero:conalep ixtapaluca 236</li>
+        <li>Estado de méxico</li>
+        <li>codigo postal:</li>
+        <li>Tel: 5555555555</li>
+        <li>Fax: </li>
+        <li>Email: </li>
+        <li class="last">Link: <a href="#">PERFIL DE COMPAÑIA</a></li>
+      </ul>
+    </div>
+    <div class="box flickrbox">
+      <h2>FOTOS DE CREADORES</h2>
+      <div class="wrap">
+        <div class="fix"></div>
+        <div class="flickr_badge_image" id="flickr_badge_image1"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image2"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /> /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image3"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image4"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image5"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image6"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="fix"></div>
+      </div>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col5">
+  <div id="copyright">
+    <p class="fl_left">Copyright &copy; 2020 - All Rights Reserved - <a href="#">BLACK CAT NEWS</a></p>
+    
+    <br class="clear" />
+  </div>
+</div>
+</body>
+</html>

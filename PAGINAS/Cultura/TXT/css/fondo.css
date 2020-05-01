@@ -1,0 +1,107 @@
+body{
+  background-image: url(imagenes/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: inherit;
+}
+
+H1{
+  color: #FFFFFF
+}
+.Navegador ul li p{
+  color: white;
+  padding: 7px 2px 7px 2px;
+}
+.Navegador ul li A{
+  color: white;
+  padding: 7px 2px 7px 2px;
+  text-decoration:none;
+  display: block;
+}
+.Navegador li ul{
+  display: none;
+  position: absolute;
+  max-width: 140px;
+}
+.Navegador li ul li {
+  margin: 10px 10px 0 10px;
+}
+.Navegador li:hover > ul {
+  display: block;
+}
+.Navegador li{
+  list-style: none;
+  display: inline-block;
+  margin: 60px 30px 0 50px;
+  text-align: center;
+}
+
+div p {
+  top: 2000px;
+  color:white;
+}
+
+div h2 {
+  top: 2000px;
+  color:white;
+}
+
+div A {
+  top: 2000px;
+  color:white;
+}
+
+.Secciones {
+  position: relative;
+  top: 1000px;
+  width: 300px;
+  height: 25px;
+  text-align: center;
+}
+div img{
+  width: 300px;
+  height: 500px;
+  left: 10PX;
+  padding: 15px;
+  float: left;
+}
+
+.Temas{
+  position: absolute;
+  top: 1300px;
+  left: 155px;
+  right: 155px;
+  white:100%;
+}
+
+
+.Temas-r{
+  position:  absolute;
+  top: 1900px;
+  left: 320px;
+  right: 320px;
+  white:100%;
+}
+
+.NTemas {
+ position:  absolute;
+ top: 1300px;
+ left: 155px;
+ right: 155px;
+white:100%;
+}
+.NTemas-r{
+  position:  absolute;
+  top: 1900px;
+  left: 320px;
+  right: 320px;
+  white:100%;
+}
+
+
+.Contenido .Navegador , .Secciones , .Temas , .Temas-r , .NTemas , .NTemas-r{
+  white:100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  overflow: hidden;
+}

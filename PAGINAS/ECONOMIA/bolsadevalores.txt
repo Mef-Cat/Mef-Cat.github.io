@@ -1,0 +1,158 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>ECONOMIA BOLSA DE VALORES</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="../ECONOMIA/layout/styles/layout.css" type="text/css" />
+</head>
+<body id="top">
+<!-- ####################################################################################################### -->
+<div class="wrapper col1"><img src="IMAGENES/LOGO.png" width="117" height="128" alt=""/>
+  <div id="header">
+<div id="logo">
+      <h1>&nbsp;</h1>
+</div>
+    <div id="topnav">
+      <ul>
+        <li><a href="ECONOMIA.html">ECONOMÍA</a>
+	<ul>	
+	 <li><a href="bolsadevalores.html">BOLSA DE VALORES</a></li>
+         <li><a href="ESTADISTICAS.html">NOTICIAS</a></li>
+		</ul>
+	<li><a href="">CIENCIA</a></li>
+        <li><a href="">GASTRONOMÍA</a></li>
+        <li><a href="#">CULTURA</a>
+	<li><a href="#">ENTRETENIMIENTO</a>
+	<li><a href="#">TECNOLOGÍAS</a>
+          
+  
+        <li class="last"><a href="#">INICIÓ</a></li>
+      </ul>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col2">
+  <div id="breadcrumb">
+    <ul>
+      <li class="first">USTED ESTA AQUÍ</li>
+      <li>&#187;</li>
+      <li><a href="ECONOMIA.HTML">ECONOMÍA</a></li>
+      <li>&#187;</li>
+      <li><a href="#">BOLSA DE VALORES</a></li>
+      <li>&#187;</li>
+    </ul>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col3">
+  <div id="container">
+    <div id="content">
+      <h1>El Ibex se dispara un 7,8% en su mayor subida en diez años y recupera los 6.700 puntos</h1>
+      <p>&nbsp;</p>
+      <p><A name="FE">24 DE MARZO DEL 2020</p></A>
+      <img class="imgr" src="../ECONOMIA/IMAGENES/BOLSA.jpg" alt="" width="125" height="125" />
+      <p><strong>Jornada de euforia en los mercados mundiales. El próximo levantamiento del cierre de Wuhan, el epicentro inicial del coronavirus, y el inminente acuerdo en el Congreso estadounidense para aprobar un plan de estímulos de dos billones de dólares desatan las compras entre los inversores. Las Bolsas europeas se han disparado y el Ibex se ha anotado un alza del 7,82% hasta los 6.717,30 puntos en su mejor sesión en diez años.</strong></p>
+      <p>Las Bolsas han vivido una jornada de euforia con la llegada de alguna buena noticia. Los mercados descuentan un inminente acuerdo final entre Republicanos y Demócratas para lanzar un plan de estímulos adicional de dos billones de dólares en EEUU. Además, desde el anuncio sorpresa de la Fed, los mercados cuentan con nuevos planes adicionales de rescate de la economía, como el anunciado hoy en Corea del Sur. Pero la mayor novedad hoy no procede tanto del ámbito económico o monetario. Los inversores ven la luz al final del túnel en China. Las autoridades del gigante asiático han levantado desde hoy las restricciones al tráfico en la provincia de Wuhan, y a partir del 8 de abril levantarán el cierre de la ciudad que se convirtió inicialmente en el epicentro de la pandemia del coronavirus. La medida deja patente el carácter temporal de la situación excepcional creada por el virus, y muestra el camino hacia una progresiva normalización de la actividad social y económica.</p>
+      <img class="imgl" src="../ECONOMIA/IMAGENES/bolsa1.JPG" alt="" width="125" height="125" />
+      <p>La renta variable de Asia ha reaccionado al inminente fin del bloqueo de Wuhan con una de las mayores subidas desde el estallido de la crisis del coronavirus. El Nikkei de Tokio se ha disparado más de un 7%, y el Kospi de Seúl un 8,6%, alentado también por los 80.000 millones de dólares de ayuda anunciados por el Gobierno coreano.</p>
+      <p>El optimismo se traslada también a Wall Street, con subidas que superan el 9% en el Dow Jones, y esta oleada alcista inunda también los mercados europeos, que no se ven sorprendidos a estas alturas por el desplome de un indicador macro como el PMI compuesto de la eurozona.</p>
+      <p>La Bolsa española se ha unido a la oleada alcista de los mercados. El Ibex se ha disparado un 7,82% hasta los 6.717,30 puntos y pone tierra por medio con los mínimo de hace ocho días en los 6.100 puntos. El selectivo español ha firmado su mejor sesión en diez años.</p>
+	<P>Los bancos, hundidos a mínimos históricos con la crisis y con las más de 40 rebajas de tipos aprobadas a nivel mundial en apenas un mes, se han sumado a la remontada generalizada en los mercados. La mayor parte de las miradas las acaparaba Santander, que anunció anoche la reducción a un único pago del dividendo de 2020. Las acciones del banco han subido un 12,01%. Sabadell se ha revalorizado un 10,29% y BBVA ha sumado un 8,71%.</P>
+		<P>Uno de los valores más castigados del Ibex en la sesión de ayer, Acciona, contaba hoy a su favor con las sorprendentes previsiones anunciadas por su participada alemana Nordex, disparada más de un 20% en Bolsa. Sin embargo, sus títulos apenas han subido un 0,21% tras la rebaja de recomendación, hasta 'vender', emitida por los analistas de Citigroup.</P>
+	  <P>La empresa del Ibex más castigada en lo que va de año, IAG, se ha unido a las subidas. La aerolínea ha remontado el vuelo en Bolsa con alzas del 6,38%, con los inversores muy atentos al levantamiento de las restricciones en China y a las posibles ayudas que podría recibir la empresa para poder recuperarse del azote de la crisis del coronavirus en el sector. Sin abandonar el sector aéreo, Aena se ha anotado avances del 4,45% tras confirmar que estudia la cancelación de su dividendo por la drástica caída de los ingresos. Otro valor relacionado con el sector turístico, Meliá, ha sido el mejor de la jornada, al anotarse un avance del 25,97%.</P>
+	  <P>La remontada del petróleo supone todo un estímulo para las empresas más vinculadas con las materias primas. Repsol ha remontado un 12,85%, y ArcelorMittal se ha disparado un 18,28%</P>
+	  <P>Las esperanzas de una próxima normalización en China dan alas a la remontada de Inditex. El gigante textil, que tiene en el gigante asiático su segundo mayor mercado, se ha revalorizado un 12,24%, hasta superar los 23 euros por acción.</P>
+		<P>El resto de Bolsas europeas han acelerado igualmente su remontada espoleada por las referencias alcistas de Wall Street. Las crecientes medidas de confinamiento en Europa ahondarán el parón económico, pero acortan de paso el fin del periodo excepcional provocado por el coronavirus. La mayor estabilidad lograda en el mercado de deuda a raíz de las ayudas de gobiernos y bancos centrales y el ejemplo de los progresos en Wuhan han animado a los inversores a lanzarse a la compra en Bolsa. Así el Dax alemán ha subido un 10,98%; el Cac francés, un 8,39%; elMib italiano, un 8,93% y el FTSE británico, un 9,05%.</P>
+	  <P>En el Euro Stoxx, grandes valores como Daimler, Safran, ING, Vokswaggen o Munich Re han cerrado con revalorizaciones en el entorno del 20%. Entre las subidas más destacadas de la jornada figura Nordex. La empresa controlada por Acciona se ha disparado un 33% al sorprender con sus previsiones de negocio.</P>
+		<P>El petróleo se une a la remontada predominante en los mercados. La menor aversión al riesgo acelera el rebote del barril de Brent hacia los 28 dólares. El barril tipo West Texas, de referencia en EEUU, se acerca a los 24 dólares, más lejos de los mínimos de 20 dólares que tocó la semana pasada.</P>
+		<P>Aunque desde que el BCE lanzara su programa de compra de deuda de 750.000 millones de euros, los cambios se han reducido, las compras en renta variable se traducen en ventas en la renta fija. El interés del bono español sube hasta el 0,85%, y la prima de riesgo se sitúa en 120 puntos básicos.</P>
+	  <P>La resaca del anuncio de la Fed de realizar comprar ilimitadas de deuda mantiene debilitado al dólar. El euro amplía su remontada al filo de los 1,08 dólares, mientras que la libra supera los 1,17 dólares.</P>
+	  <P><img src="IMAGENES/bolsa2.JPG" width="989" height="291" alt=""/></P>
+	  <h2>&nbsp;</h2>
+<div id="respond">
+        <form action="#" method="post">
+          <p>
+<label for="name"></label>
+          </p>
+<p>
+<label for="comment" style="display:none;"><small>Comment (required)</small></label>
+          </p>
+</form>
+      </div>
+    </div>
+    <div id="column">
+      <div class="subnav">
+        <h2>FECHAS</h2>
+        <ul>
+          <li><a href="#">MARZO</a></li>
+          <li><a href="#FE">24-MARZO-2020</a>
+            <ul>
+              <li><a href="#">25-MARZO-2020</a></li>
+              <li><a href="#">26-MARZO-2020</a></li>
+            </ul>
+          </li>
+          <li><a href="#"> ABRIL</a>
+            <ul>
+              <li><a href="#">MAYO </a></li>
+              <li><a href="#">JUNIO</a><a href="#">JULIO</a><a href="#">AGOSTO</a>              </li>
+            </ul>
+          </li>
+          <li><a href="#">SEPTIEMBRE</a></li>
+        </ul>
+      </div>
+      <div class="holder"> </div>
+</div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col4">
+  <div id="footer">
+    <div class="box1">
+      <h2>Un poco de información de la empresa !</h2>
+      <img src="IMAGENES/LOGO.png" alt="" width="154" height="155" class="imgl" />
+      <p> 
+		  
+	  Nuestro proposito es ser una empresa lider,confiable y de excelencia cuyos contenidos periodísticos y servicios sean los mejores basandose siempre en un trabajo de calidad y responsabilidad para nuestros lectores.</p>
+    
+    </div>
+    <div class="box contactdetails">
+      <h2>CONTACTOS !</h2>
+      <ul>
+        <li>NOMBRE DE COMPAÑIA:BLACK CAT NEWS</li>
+        <li>calle y numero:conalep ixtapaluca 236</li>
+        <li>Estado de méxico</li>
+        <li>codigo postal:</li>
+        <li>Tel: 5555555555</li>
+        <li>Fax: </li>
+        <li>Email: </li>
+        <li class="last">Link: <a href="#">PERFIL DE COMPAÑIA</a></li>
+      </ul>
+    </div>
+    <div class="box flickrbox">
+      <h2>FOTOS DE CREADORES</h2>
+      <div class="wrap">
+        <div class="fix"></div>
+        <div class="flickr_badge_image" id="flickr_badge_image1"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image2"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /> /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image3"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image4"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image5"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image6"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="fix"></div>
+      </div>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col5">
+  <div id="copyright">
+    <p class="fl_left">Copyright &copy; 2020 - All Rights Reserved - <a href="#">BLACK CAT NEWS</a></p>
+    <br class="clear" />
+  </div>
+</div>
+</body>
+</html>

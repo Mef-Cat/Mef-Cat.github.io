@@ -1,0 +1,84 @@
+body{
+  background-image: url(imagenes/R-MUSICA.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: inherit;
+}
+.Navegador ul li p{
+  color: white;
+  padding: 7px 2px 7px 2px;
+}
+.Navegador ul li A{
+  color: white;
+  padding: 7px 2px 7px 2px;
+  text-decoration:none;
+  display: block;
+}
+.Navegador li ul{
+  display: none;
+  position: absolute;
+  max-width: 140px;
+}
+.Navegador li ul li {
+  margin: 10px 10px 0 10px;
+}
+.Navegador li:hover > ul {
+  display: block;
+}
+.Navegador li{
+  list-style: none;
+  display: inline-block;
+  margin: 60px 30px 0 50px;
+  text-align: center;
+}
+
+.Titulo{
+  position:relative;
+    top: 820px;
+    text-align: center;
+}
+
+.Titulo h1{
+  color: white;
+  font-size: 50PX;
+}
+
+.Sinopsis P,H2,table,th,td{
+  color: white;
+  font-size: 30PX;
+}
+
+.Sinopsis{
+  position: absolute;
+  top: 1700px;
+  left: 200px;
+  right: 200px;
+}
+
+.Opasidad P{
+  color: white;
+  font-size: 30PX;
+  background-color: black;
+  opacity: 0.6;
+}
+
+.Opasidad table{
+  color: white;
+  font-size: 30PX;
+  background-color: black;
+  opacity: 0.6;
+}
+
+.Opasidad h2{
+  color: white;
+  font-size: 30PX;
+  background-color: black;
+  opacity: 0.6;
+}
+
+.Opasidad{
+  position: absolute;
+  top: 1700px;
+  left: 200px;
+  right: 200px;
+}

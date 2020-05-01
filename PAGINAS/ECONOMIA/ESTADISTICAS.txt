@@ -1,0 +1,234 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>ECONOMIA NOTICIAS</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="../ECONOMIA//layout/styles/layout.css" type="text/css" />
+</head>
+<body id="top">
+<!-- ####################################################################################################### -->
+
+<div class="wrapper col1"><img src="../ECONOMIA/IMAGENES/LOGO.png" width="104" height="120">
+  <div id="header">
+    <div id="logo"> </div>
+    <div id="topnav">
+      <ul>
+        <li><a href="ECONOMIA.HTML">ECONOMIA</a>
+	 <ul>	
+	    <li><a href="bolsadevalores.html">BOLSA DE VALORES</a></li>
+            <li><a href="estadisticas.html">NOTICIAS</a></li>
+	 </ul>
+        <li><a href="#">CIENCIA</a></li>
+        <li><a href="#">GASTRONOMIA</a></li>
+        <li><a href="#">CULTURA</a></li></li>
+	<li><a href="#">ENTRETENIMIENTO</a></li>
+	<li><a href="#">TECNOLOGIAS</a></li>
+        
+        <li class="last"><a href="#">INICIO</a></li>
+     </ul>	
+    </div>
+<br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col2">
+  <div id="breadcrumb">
+    <ul>
+      <li class="first"><a href="ECONOMIA.html">INICIO</a></li>
+      <li>&#187;</li>
+      <li><a href="#">NOTICIAS</a></li>
+      
+    
+    </ul>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col3">
+  <div id="container">
+		<br>
+		 
+    <h1><strong><A name="VOL">NOTICIAS</a></strong> 	 		      </h1>
+    <ol>
+      <li>
+        <h4><A href="#n1">EEUU y M&eacute;xico concuerdan sobre importancia de comercio, a pesar de restricciones en frontera</h4>
+        <p>&nbsp;</p>
+      </li>
+      <li>
+        <h4><A href="#n2">Peso mexicano cae a un nuevo m&iacute;nimo hist&oacute;rico de 24.863/dlr en negociaciones internacionales</A>
+          </H1>
+        </h4>
+        <p>&nbsp; </p>
+      </li>
+	<li>
+	  <h4><A href="#n3">5 cosas a vigilar esta semana en los mercados financieros</h4>
+	  <p>&nbsp;</p>
+	  </li>
+	<li>
+	  <h4><A href="#n4">EN Fitch dice riegos para bancos mexicanos aumentan debido a incertidumbre por coronavirus</h4>
+	  <p>&nbsp;</p>
+	</li>
+	<li>
+	  <h4><A href="#n5">FMI dice que el mundo tendrá una recesión econ&oacute;mica mayor o igual que la de 2009</h4>
+	  <p>&nbsp;</p>
+	  </li>
+	<li>
+	  <h4><a href="#n6">Venezuela reporta siete nuevos casos de coronavirus, total de infectados sube a 84</a></h4>
+	</li>
+    </ol>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3><A name="n1">EEUU y México concuerdan sobre importancia de comercio, a pesar de restricciones en frontera</a></h3>
+    <p>21.03.2020 15:54 </p>
+    <img src="../ECONOMIA/IMAGENES/noticia1.jpg" alt="" />  
+
+    <p>WASHINGTON/CIUDAD DE MÉXICO, 21 mar (Reuters) - El presidente de Estados Unidos, Donald Trump, y su homólogo mexicano, Andrés Manuel López Obrador, concordaron el sábado en la importancia de preservar el comercio bilateral pese a las restricciones en la frontera entre ambos países para luchar contra el coronavirus, dijo un portavoz de la Casa Blanca.</p>
+    <p>"Ambos líderes discutieron la pandemia del coronavirus y la estrecha cooperación de Estados Unidos y México en los esfuerzos por combatir el virus", dijo el portavoz de la Casa Blanca Judd Deere (NYSE:DE) después de que ambos líderes hablaron por teléfono.</p>
+	<p>"El presidente Trump y el presidente López Obrador concordaron en la importancia de preservar el comercio y servicios clave, sin importar las restricciones de viaje", dijo Deere, refiriéndose a un acuerdo para limitar los movimientos a través de la frontera entre Estados Unidos y México solo a viajes esenciales.</p>
+	<p>López Obrador agradeció a Trump en Twitter por no cerrar la frontera común y propuso acelerar la implementación del nuevo Tratado México-Estados Unidos-Canadá (T-MEC) para fortalecer la recuperación económica de los países. dijo el viernes que Estados Unidos retornaría rápidamente a cualquier inmigrante que intente entrar ilegalmente al país, desde México o Canadá, a la vez que cerraría las fronteras a los viajes "no esenciales" para limitar la propagación del coronavirus. presidente republicano también dijo que Estados Unidos y México trabajarían para mantener el intercambio transfronterizo funcionando al mayor nivel posible para limitar los trastornos a las empresas y el comercio.</p>
+	<p>EEUU expulsará a inmigrantes ilegales que crucen frontera con México por el coronavirus</p>
+	<p>BILIOGRAFIA: https://mx.investing.com/news/economy/eeuu-y-mexico-concuerdan-sobre-importancia-de-comercio-a-pesar-de-restricciones-en-frontera-1964253</p>
+    <HR>
+<br>
+    <br>
+    <HR2>
+      <h3><A name="n2">Peso mexicano cae a un nuevo mínimo histórico de 24.863/dlr en negociaciones internacionales</A></h3>
+    <h3><img src="../ECONOMIA/IMAGENES/noticia2.jpg" alt="" />
+    </h3>
+    <P>CIUDAD DE MÉXICO, 22 mar (Reuters) - El peso mexicano se hundió el domingo a un nuevo mínimo nivel histórico de 24.863 por dólar, tras nuevas advertencias de un gran salto en el desempleo en Estados Unidos debido al impacto económico del coronavirus, dijeron analistas.</P>
+	<P>En operaciones en el exterior, donde se llevan a cabo la mayoría de las negociaciones de la moneda, el peso MXN= se depreciaba un 1.81% frente al precio de referencia de Reuters del viernes.</P>
+	<P>"Por encima de 25 pesos, el mercado estaría descontando un escenario económico peor al del 2009", dijo Gabriela Siller, jefa de análisis económico del Banco Base. (Reporte de Noé Torres)</P>
+	
+	 <HR>
+		 <HR3>
+		 <h3>
+		 <h3><A name="n3">5 cosas a vigilar esta semana en los mercados financieros </A>
+    </h3>
+		 <p><br>
+		   <img src="../ECONOMIA/IMAGENES/noticia3.jpg" alt="" />
+		   
+    </p>
+		 <P>Por Noreen Burke</P>
+		 <P> Investing.com - Esta semana, los observadores del mercado estarán pendientes de los gobiernos y los bancos centrales para conocer las primeras indicaciones sobre la magnitud del impacto de la pandemia del coronavirus, pero la atención se centrará en la respuesta de los gobiernos y los bancos centrales que están implementando medidas de estímulo ante los temores del mercado sobre si las medidas anunciadas hasta ahora serán adecuadas. Esto es lo que necesita saber para comenzar su semana.</P>
+		 <P>1. Los datos mostrarán los primeros golpes económicos del virus</P>
+<BR>
+	<P>Poca gente tiene dudas de que la economía mundial va camino de una recesión a medida que los países de todo el mundo van entrando en aislamiento ante los esfuerzos de contención del virus que sigue su curso. No hace falta decir que es probable que los datos del PMI de Estados Unidos, la eurozona y el Reino Unido de esta semana indiquen fuertes descensos.</P>
+	<P>Las encuestas del PMI suelen realizarse en la segunda mitad del mes y los datos de la encuesta "preliminar" generalmente se recopilan más o menos una semana antes de que se publiquen los datos, por lo que los economistas consideran que los PMI de la semana que viene proporcionarán la visión general más completa hasta ahora del impacto del coronavirus.</P>
+    <P>Mientras tanto, las cifras del jueves de solicitudes iniciales de subsidio por desempleo serán las primeras en mostrar el alcance total del impacto del mercado laboral estadounidense. Los economistas de Goldman Sachs (NYSE:GS) estiman que las solicitudes de subsidio por desempleo se dispararán hasta 2,25 millones, máximos históricos, según un análisis de los informes preliminares de 30 estados.</P>
+	<P>2. Respuesta del Gobierno de Estados Unidos</P>
+	<BR>
+	<P>Republicanos y demócratas del Senado de Estados Unidos continuaron el sábado sus esfuerzos para llegar a un acuerdo sobre un proyecto de ley de más de 1 billón de dólares destinado a mitigar las consecuencias económicas de la pandemia del coronavirus para los trabajadores y las empresas.</P>
+	<P>El asesor económico de la Casa Blanca, Larry Kudlow, ha dicho que espera que el paquete legislativo final tenga un valor de entre 1,3 y 1,4 billones de dólares.</P>
+	<P>Junto con las medidas ya implementadas por la Reserva Federal de Estados Unidos y la administración, el proyecto de ley prospectivo tendría un impacto neto de 2 billones de dólares en la economía estadounidense, según funcionarios de la Casa Blanca.</P>
+	<p>3. ¿Ajuste de liquidez para relajar?</p>
+	<br>
+	<p>Un ajuste de la liquidez llevó a la Reserva Federal el viernes a impulsar los acuerdos de líneas swap de liquidez en dólares que tiene con el Banco de Canadá, el Banco de Inglaterra, el Banco de Japón, el Banco Central Europeo y el Banco Nacional Suizo.</p>
+	<p>Para ver si eso surte efecto, debemos estar atentos a la estabilización de los tipos de cambio del dólar.</p>
+	<p>La demanda de la moneda de reserva mundial se había disparado ante la recogida de efectivo en previsión de una prolongación de la pandemia, con un desajuste importante de liquidez entre la demanda global de dólar estadounidense y aquellos en oferta.</p>
+	<br>
+	<p>4. El panorama de la valoración de las acciones de Estados Unidos podría aclararse</p>
+	<br>
+	<p>A medida que el mercado de valores de Estados Unidos se desploma, las valoraciones también han descendido drásticamente.</p>
+	<p>La relación precio-beneficio del S&P 500, basada en las estimaciones de resultados para el año que viene, ha descendido de las más de 19 veces de finales de febrero hasta las 14,2 del miércoles pasado, según datos de Refinitiv, situando la valoración por debajo de su promedio histórico.</p>
+	<p>Pero el panorama se complica por el hecho de que las estimaciones de resultados podrían ser demasiado tempranas como para poder incluir aún las consecuencias del coronavirus.</p>
+	<p>El panorama podría aclararse en las próximas semanas, ya que el primer trimestre llega a su fin y las empresas comienzan a preparar sus resultados. La semana pasada, FedEx (NYSE:FDX) y Marriott retiraron sus previsiones financieras para 2020 debido al brote.</p>
+	<p>Nike (NYSE:NKE), Micron (NASDAQ:MU) Technology, y KB Home (NYSE:KBH) se encuentran entre las empresas de Estados Unidos que publican sus resultados esta semana.</p>
+	<br>
+	<p>5. Mercados emergentes</p>
+	<br>
+	<p>Los activos de los mercados emergentes han recibido un buen golpe, registrando las monedas nuevos mínimos históricos, desplomándose los bonos y dejándose las acciones casi un 10% la semana pasada. Varios factores han contribuido: la fortaleza del dólar, unas aciagas previsiones económicas, el desplome de los precios del petróleo y el aumento de los costes de financiación.</p>
+	<p>Los inversores que acumulan dólares han visto cómo las continuas tensiones en los mercados de financiación de dólares y las líneas swap apresuradas entre los bancos centrales a principios de esta semana han hecho poco por aliviar las tensiones crediticias en el corazón del problema.</p>
+	<p>Los bancos centrales de Estados Unidos, la zona euro, Canadá, el Reino Unido, Japón y Suiza volvieron a intervenir el viernes, acordando aumentar la frecuencia de su facilidad de crédito en dólares estadounidenses a una semana.</p>
+	<p>En los mercados emergentes, los encargados de la formulación de la política monetaria que carecen de potencia para apoyar las monedas o que tienen muchos problemas para recortar los tipos de interés cruzarán los dedos para que las medidas adoptadas por los principales bancos centrales sean suficientes para poner fin a la crisis.</p>
+	<br>
+	<br>
+	<br>
+	<hr>
+	<h3>&nbsp;</h3>
+	<h3><A name="n4">EN Fitch dice riegos para bancos mexicanos aumentan debido a incertidumbre por coronavirus</a></h3>
+	<br>
+	<img src="../ECONOMIA/IMAGENES/noticia4.jpg" alt="" /></a>
+	<p>Fitch dice riesgos de rebaja de calificaci&oacute;n de bancos en M&eacute;xico se incrementa debido a incertidumbre por coronavirus</p>
+	<p>Fitch dice espera crecimiento de 0.0% para PIB M&eacute;xico en 2020, riesgo de baja en nota se est&aacute; incrementando en medio de incertidumbre por propagaci&oacute;n de coronavirus.</p>
+	<p>Fitch espera que deterioro en condiciones operativas presionar&aacute; calidad de activos y pesar&aacute; en ganancias de sistema bancario mexicano.</p>
+	<p>Fitch dice propagaci&oacute;n de coronavirus, combinado con aguda baja en precios crudo exacerbar&aacute; debilidad econ&oacute;mica de M&eacute;xico para sistema bancario en 2020</p>
+	<p>* Fitch dice bancos mexicanos est&aacute;n bien preparados para confrontar choques de mercados de corto plazo dados los recientes a&ntilde;os de alta rentabilidad y mejora en calidad de activos</p>
+	<p>(Redacci&oacute;n Ciudad de M&eacute;xico)</p>
+	<hr>
+	<h3><A name="n5">FMI dice que el mundo tendrá una recesión económica mayor o igual que la de 2009</a></h3>
+		  
+    <img src="../ECONOMIA/IMAGENES/noticia5.jpg" alt="" /></a>
+	<p>Por C&eacute;sar Enrique P&eacute;rez Moreno<br>
+	  <br>
+	  Infosel, marzo. 23.- La econom&iacute;a del mundo vivir&aacute; este a&ntilde;o una crisis igual o incluso mayor que la ocurrida hace m&aacute;s de una d&eacute;cada, durante la llamada Gran Recesi&oacute;n global, por los efectos negativos que provocar&aacute; en varias naciones la pandemia de coronavirus codi-19, dijo Kristalina Georgieva, la directora gerente del Fondo Monetario Internacional.<br>
+	  <br>
+	  La ejecutiva de origen b&uacute;lgaro hizo esos comentarios a trav&eacute;s de un comunicado, luego de sostener una llamada telef&oacute;nica con ministros de finanzas y gobernadores de bancos centrales de las 20 naciones m&aacute;s desarrolladas del mundo (G20), donde se discutieron las posibles acciones que podr&iacute;an tomar las autoridades para limitar el da&ntilde;o provocado por este nuevo coronavirus.<br>
+	  <br>
+	  Sin embargo, la directora del Fondo dijo que se espera una recuperaci&oacute;n econ&oacute;mica para el a&ntilde;o pr&oacute;ximo si los gobiernos toman medidas fiscales adecuadas para ayudar a frenar el avance de la enfermedad.<br>
+	  <br>
+	  "Las perspectivas de crecimiento global: para 2020 es negativo, una recesi&oacute;n al menos tan mala como durante la crisis financiera mundial o peor. Pero esperamos una recuperaci&oacute;n en 2021", dijo Georgieva. "Para llegar all&iacute;, es primordial priorizar la contenci&oacute;n y fortalecer los sistemas de salud, en todas partes. El impacto econ&oacute;mico es y ser&aacute; severo, pero cuanto m&aacute;s r&aacute;pido se detenga el virus, m&aacute;s r&aacute;pida y fuerte ser&aacute; la recuperaci&oacute;n".<br>
+	  <br>
+    El FMI dijo que tiene dispuesto hasta un bill&oacute;n de d&oacute;lares para otorgar financiamiento de emergencia a los pa&iacute;ses que sean sacudidos por el covid-19 y que no cuenten con recursos suficientes para fortalecer sus sistema de salud.</p>
+	<hr>
+	<h3><A name="n6">Venezuela reporta siete nuevos casos de coronavirus, total de infectados sube a 84</a></h3>
+	<br>
+	<img src="../ECONOMIA/IMAGENES/noti6.jpg" alt="" />
+	<p>CARACAS, 23 mar (Reuters) - Venezuela elev&oacute; el lunes a 84 el n&uacute;mero de casos confirmados de coronavirus desde los 77 que se hab&iacute;an contabilizado hasta el d&iacute;a previo, dijo la vicepresidenta ejecutiva, en medio de una cuarentena que busca contener los contagios en la ya precaria naci&oacute;n OPEP.</p>
+	<p>La funcionaria explic&oacute; que fueron confirmados siete nuevos infectados y han registrado m&aacute;s de 20.000 casos sospechosos que ser&aacute;n sometidos a prueba de despistaje.</p>
+	<p>"El sacrificio (...) de quedarse en su casa (...) es el camino. Venezuela est&aacute; logrando contener la curva, que no se pase a una curva exponencial, sino que la podamos mantener y la podamos contener para cortar con la cadena de transmisi&oacute;n", dijo la vicepresidenta, Delcy Rodr&iacute;guez, en una transmisi&oacute;n por el canal estatal de televisi&oacute;n.</p>
+	<p>La funcionaria alert&oacute; que la mayor&iacute;a de los casos positivos del pa&iacute;s son personas con edades comprendidas entre los 20 y 40 a&ntilde;os.</p>
+	<p>"Los j&oacute;venes no son inmunes al COVID-19, pueden ser seriamente afectados, incluso de forma letal", advirti&oacute; la funcionaria, que hizo referencia al llamado de la Organizaci&oacute;n Mundial de la Salud (OMS), que alert&oacute; que el coronavirus puede enfermar o matar a los j&oacute;venes.</p>
+	<p>La vicepresidente dijo que unos 12.000 estudiantes de los &uacute;ltimos a&ntilde;os de medicina y de enfermer&iacute;a podr&iacute;an ser incorporados en el plan para enfrentar el virus, e hizo un llamado a los jubilados a que se alisten como voluntarios de ser necesario.</p>
+	<p>La Federaci&oacute;n M&eacute;dica Venezolana advirti&oacute; que ninguno de los 46 hospitales del pa&iacute;s, de la red de 301 centros nacionales, designados por el gobierno como referentes para tratar casos sospechosos est&aacute;n en condiciones de atender pacientes debido a fallas de servicios, equipos y medicinas.</p>
+	<p>                      .............................................................................................................................................................................. <h3><A href="#VOL">VOLVER AL INICIO</a></h3></p>
+		  
+		 
+  </div>		 
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col4">
+  <div id="footer">
+    <div class="box1">
+       <h2>Un poco de información de la empresa !</h2>
+      <img src="../ECONOMIA/IMAGENES/LOGO.png" alt="" width="154" height="155" class="imgl" />
+      <p> 
+		  
+	  Nuestro proposito es ser una empresa lider,confiable y de excelencia cuyos contenidos periodísticos y servicios sean los mejores basandose siempre en un trabajo de calidad y responsabilidad para nuestros lectores.</p>
+    </div>
+    <div class="box contactdetails">
+      <h2>CONTACTOS !</h2>
+      <ul>
+        <li>NOMBRE DE COMPAÑIA:BLACK CAT NEWS</li>
+        <li>calle y numero:conalep ixtapaluca 236</li>
+        <li>Estado de méxico</li>
+        <li>codigo postal:</li>
+        <li>Tel: 5555555555</li>
+        <li>Fax: </li>
+        <li>Email: </li>
+        <li class="last">Link: <a href="#">PERFIL DE COMPAÑIA</a></li>
+      </ul>
+    </div>
+    <div class="box flickrbox">
+      <h2>FOTOS DE CREADORES</h2>
+      <div class="wrap">
+        <div class="fix"></div>
+        <div class="flickr_badge_image" id="flickr_badge_image1"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image2"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /> /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image3"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image4"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image5"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="flickr_badge_image" id="flickr_badge_image6"><a href="#"><img src="../ECONOMIA/IMAGENES/demo/80x80.gif" alt="" /></a></div>
+        <div class="fix"></div>
+      </div>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col5">
+<div id="copyright">
+  <div id="copyright">
+    <p class="fl_left">Copyright &copy; 2020 - All Rights Reserved - <a href="#">BLACK CAT NEWS</a></p>
+    <br class="clear" />
+  </div>
+</div>
+</body>
+</html>
