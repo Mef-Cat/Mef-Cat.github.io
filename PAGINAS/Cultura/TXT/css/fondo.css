@@ -69,34 +69,19 @@ div img{
 
 .NTemas {
  position:  absolute;
- top: 120%;
+ top: 350%;
  left: 10%;
  right: 10%;
 white:100%;
 }
 .NTemas-r{
   position:  absolute;
-  top: 150%;
-  left: 20%;
-  right: 20%;
+  top: 500%;
+  left: 23%;
+  right: 23%;
   white:100%;
 }
-/*
-.NTemas {
- position:  absolute;
- top: 1300px;
- left: 155px;
- right: 155px;
-white:100%;
-}
-.NTemas-r{
-  position:  absolute;
-  top: 1900px;
-  left: 320px;
-  right: 320px;
-  white:100%;
-}
-*/
+
 
 .Contenido .Navegador , .Secciones , .Temas , .Temas-r , .NTemas , .NTemas-r{
   white:100%;
