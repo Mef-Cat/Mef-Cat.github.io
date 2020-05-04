@@ -38,30 +38,30 @@ H1{
 }
 
 div p {
-  top: 2000px;
   color:white;
 }
 
 div h2 {
-  top: 2000px;
   color:white;
 }
 
 div A {
-  top: 2000px;
   color:white;
 }
 
-.Secciones {
-  position: relative;
-  top: 1000px;
-  width: 300px;
-  height: 25px;
+.Secciones h2 {
+  position: absolute;
+  top: 180%;
+  left: 41%;
+  text-align: center;
+}
+.Secciones p {
+  position: absolute;
+  top: 190%;
+  left: 31%;
   text-align: center;
 }
 div img{
-  width: 300px;
-  height: 500px;
   left: 10PX;
   padding: 15px;
   float: left;
