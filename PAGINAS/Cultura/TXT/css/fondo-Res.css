@@ -1,0 +1,55 @@
+@media (min-width: 400px){
+  .Navegador ul li p{
+    color: white;
+    padding: 2px 2px 2px 2px;
+  }
+  .Navegador ul li A{
+    color: white;
+    padding: 2px 2px 2px 2px;
+    text-decoration:none;
+    display: block;
+  }
+  .Navegador li ul{
+    display: none;
+    position: absolute;
+    max-width: 25px;
+  }
+  .Navegador li ul li {
+    margin: 1px 1px 0 1px;
+  }
+  .Navegador li:hover > ul {
+    display: block;
+  }
+  .Navegador li{
+    list-style: none;
+    display: inline-block;
+    margin: 15px 7px 0 15px;
+    text-align: center;
+  }
+
+
+  div img{
+    left: 10PX;
+    padding: 15px;
+  }
+  .NTemas-r img{
+    width: 600px;
+  }
+  .NTemas img{
+    width: 600px;
+  }
+  .NTemas {
+   position:  absolute;
+   top: 70%;
+   left: 17%;
+   right: 10%;
+  white:50px;
+  }
+  .NTemas-r{
+    position:  absolute;
+    top: 275%;
+    left: 17%;
+    right: 23%;
+    white:50%;
+  }
+}

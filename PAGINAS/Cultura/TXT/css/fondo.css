@@ -1,3 +1,4 @@
+
 body{
   background-image: url(https://i.pinimg.com/originals/52/8f/ba/528fba70bf9ae92b23efc4b64a9688e2.gif);
   background-repeat: no-repeat;
@@ -82,10 +83,11 @@ white:100%;
   white:100%;
 }
 
-
+/*
 .Contenido .Navegador , .Secciones , .Temas , .Temas-r , .NTemas , .NTemas-r{
   white:100%;
   max-width: 1024px;
   margin: 0 auto;
   overflow: hidden;
 }
+*/
