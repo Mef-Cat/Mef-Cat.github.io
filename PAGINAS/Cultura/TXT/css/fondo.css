@@ -39,14 +39,17 @@ H1{
 }
 
 div p {
+  top: 2000px;
   color:white;
 }
 
 div h2 {
+  top: 2000px;
   color:white;
 }
 
 div A {
+  top: 2000px;
   color:white;
 }
 
@@ -55,6 +58,7 @@ div A {
   top: 180%;
   left: 41%;
   text-align: center;
+
 }
 .Secciones p {
   position: absolute;
@@ -62,6 +66,7 @@ div A {
   left: 31%;
   text-align: center;
 }
+
 div img{
   left: 10PX;
   padding: 15px;
@@ -73,15 +78,14 @@ div img{
  top: 210%;
  left: 10%;
  right: 10%;
-white:100%;
+
 }
 .NTemas-r{
   position:  absolute;
   top: 300%;
   left: 23%;
   right: 23%;
-  white:100%;
-}
+
 
 /*
 .Contenido .Navegador , .Secciones , .Temas , .Temas-r , .NTemas , .NTemas-r{

@@ -1,53 +1,42 @@
-@media (min-width: 400px){
-  .Navegador ul li p{
-    color: white;
-    padding: 2px 2px 2px 2px;
-  }
-  .Navegador ul li A{
-    color: white;
-    padding: 2px 2px 2px 2px;
-    text-decoration:none;
-    display: block;
-  }
-  .Navegador li ul{
-    display: none;
+
+@media screen  and (max-width:500px) {
+
+  .Secciones h2 {
     position: absolute;
-    max-width: 25px;
+    top: 70%;
+    left: 9%;
+    right: 9%;
+    text-align: center;
+
   }
-  .Navegador li ul li {
-    margin: 1px 1px 0 1px;
-  }
-  .Navegador li:hover > ul {
-    display: block;
-  }
-  .Navegador li{
-    list-style: none;
-    display: inline-block;
-    margin: 15px 7px 0 15px;
+  .Secciones p {
+    position: absolute;
+    top: 80%;
+    left: 5%;
+    right: 5%;
     text-align: center;
   }
-
 
   div img{
     left: 10PX;
     padding: 15px;
   }
   .NTemas-r img{
-    width: 600px;
+    width: 100%;
   }
   .NTemas img{
-    width: 600px;
+    width: 100%;
   }
   .NTemas {
    position:  absolute;
-   top: 70%;
+   top: 100%;
    left: 17%;
-   right: 10%;
-  white:50px;
+   right: 23%;
+  white:50%;
   }
   .NTemas-r{
     position:  absolute;
-    top: 275%;
+    top: 330%;
     left: 17%;
     right: 23%;
     white:50%;
