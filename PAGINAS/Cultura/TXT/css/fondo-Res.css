@@ -1,5 +1,5 @@
 
-@media screen  and (max-width:500px) {
+@media screen  and (max-width:400px) {
 
   .Navegador ul li p{
     color: white;
@@ -72,15 +72,15 @@
   background: #444;
   border-left: 5px solid #eee;
 }
-
+/*
 .Contenido {
   width: 100%;
   height: 100%;
   position: absolute;
-  background-image: url(https://i.pinimg.com/originals/52/8f/ba/528fba70bf9ae92b23efc4b64a9688e2.gif);
+
   padding: 30px;
 }
-
+*/
 /* Mensaje de Página*/
   .Secciones h2 {
     position: absolute;
