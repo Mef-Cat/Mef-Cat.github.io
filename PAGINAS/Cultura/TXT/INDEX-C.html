@@ -3,6 +3,9 @@
 	<HEAD><TITLE> CULTURA </TITLE></HEAD>
 	<link rel="stylesheet" type="text/css" href="css/fondo.css">
 	<link rel="stylesheet" href="css/fondo-Res.css">
+
+	<script src="https://code.jquery.com/jquery.js"></script>
+
 	<BODY>
 
 
@@ -55,7 +58,7 @@
 	</center>
 	<br>
 	<br>
-
+<!-- Ventas del Test  -->
 	<div class="VentanaTest" id="vent">
 
 		<div id="cerrar">
@@ -64,6 +67,103 @@
 
 		<H2> Puedes Adivinar La Pelicula </h2>
 			<p> Selecciona el Nombre de la Pelicula a la que Pertenece la Imagen </p>
+			<img src="" alt="The Bloob" id="pelicula">
+			<div id="respuestas">
+			</div>
+			<input type="button" value="Verificar" onclick="comprobar()">
+
+
+			<script>
+				var pelicula1="https://i.pinimg.com/564x/8f/35/18/8f3518771ad03a9a50805131510f375a.jpg"; /* The Thing */
+				var pelicula2="https://i.pinimg.com/564x/0c/2e/11/0c2e11c6eab01a0cf2825ccc8cf6607d.jpg"; /* The Shining */
+				var pelicula3="https://i.pinimg.com/564x/20/60/e8/2060e832adde692ee9398407c03771ef.jpg"; /* The Human Centipede */
+				var pelicula4="https://i.pinimg.com/564x/a5/85/04/a58504bed37f2466ce91e61b4f265535.jpg"; /* The fly */
+				var pelicula5="https://i.pinimg.com/564x/3f/f6/74/3ff6743601135acaf35b74c648e15837.jpg"; /* The Bloob */
+				var pelicula6="https://i.pinimg.com/564x/52/c4/de/52c4de1e6516564005a8bfc524768ba4.jpg"; /* Saló 120 días de sodoma */
+				var pelicula7="https://i.pinimg.com/564x/0f/4e/27/0f4e27aa42a8f4adf437eedcbc2583ef.jpg"; /* The lord of the flies */
+				var pelicula8="https://i.pinimg.com/564x/1d/67/cb/1d67cbd33b16255a822a409900c523d9.jpg"; /* IT */
+				var pelicula9="https://i.pinimg.com/564x/76/d7/3d/76d73d71bcc026713e057887db98ebc3.jpg"; /* Donnie Darko */
+				var pelicula10="https://i.pinimg.com/564x/c9/a3/a9/c9a3a98c71e90456b0d24fc4906b625c.jpg"; /* Child´s Play */
+				var respuestas =
+				[
+					["l"],
+					["The Thing", "La matanza de Texas", "Boogeyman", "Hatchet"], /* 3 */
+					["The Shining", "Wrong Turn", "Hatchet", "House of Wax"], /* 4 */
+					["The Human Centipede","Boogeyman","Fast Food Killer","La matanza de Texas"], /* 4 */
+					["The fly","Hatchet","Fast Food Killer","House of Wax"], /* 3 */
+					["The Bloob","Fast Food Killer","La casa de cera","The Thing"], /* 2 */
+					["Saló 120 días de sodoma","La matanza de Texas","Fast Food Killer","The Thing"], /* 3 */
+					["The lord of the flies","Fast Food Killer","The Thing","Wrong Turn"], /* 2 */
+					["IT","Wrong Turn","Boogeyman","Child´s Play"], /* 2 */
+					["Donnie Darko","Hatchet","The Thing","La matanza de Texas"], /* 4 */
+					["Child´s Play","Wrong Turn","Boogeyman","House of Wax"], /* 1 */
+				];
+
+				Jugar();
+				var indicie_respuesta_correcta;
+				function Jugar(){
+					var num= Math.floor((Math.random()*(11-1))+1);
+					var respuestasPosibles = respuestas[num];
+				switch (num) {
+					case 1: pelicula.src=pelicula1;
+						break;
+					case 2: pelicula.src=pelicula2;
+						break;
+					case 3: pelicula.src=pelicula3;
+						break;
+					case 4: pelicula.src=pelicula4;
+						break;
+					case 5: pelicula.src=pelicula5;
+						break;
+					case 6: pelicula.src=pelicula6;
+						break;
+					case 7: pelicula.src=pelicula7;
+						break;
+					case 8: pelicula.src=pelicula8;
+						break;
+					case 9: pelicula.src=pelicula9;
+						break;
+					case 10: pelicula.src=pelicula10;
+						break;
+				}
+
+
+				var posiciones = [0,1,2,3];
+						var respuestas_reordenadas = [];
+
+						var ya_se_metio = false;
+						for(i in respuestasPosibles){
+							var posicion_aleatoria = Math.floor(Math.random()*posiciones.length);
+							if(posicion_aleatoria==0 && ya_se_metio == false){
+								indicie_respuesta_correcta =i;
+								ya_se_metio = true;
+							}
+							respuestas_reordenadas[i] = respuestasPosibles[posiciones[posicion_aleatoria]];
+							posiciones.splice(posicion_aleatoria, 1);
+						}
+
+				var txt_respuestas ="";
+				//i=0;
+				for (i in respuestas_reordenadas){
+				txt_respuestas += '<div><input type= "radio" name="pp" value="'+i+'"><label>'+respuestas_reordenadas[i]+'</label></div>';
+				}
+
+				document.getElementById("respuestas").innerHTML = txt_respuestas;
+
+
+			}
+			var respuestaCorrecta;
+			function comprobar(){
+				var respuesta = $("input[type = radio]:checked").val();
+				if(respuesta == indicie_respuesta_correcta){
+					alert("Correcto");
+					
+				}else{
+					alert("Incorrecto");
+				}
+				jugar();
+				}
+			</script>
 	</div>
 
   <div class="testPeliculas">
@@ -99,15 +199,17 @@
 </script>
 
 	<div class="NTemas-r">
-	<a	href="RELATOS-C.html"><img src="IMG/Relatos.png"alt="Relatos"></a>
-	<img src="IMG/Baile.png"alt="Baile">
+		<a	href="RELATOS-C.html"><img src="IMG/Relatos.png"alt="Relatos"></a>
+		<img src="IMG/Baile.png"alt="Baile">
 	</div>
 
 	<div class="NTemas">
-	<a	href="CINE-C.html"><img src="IMG/Peliculas.png"alt="Peliculas"></a>
-	<a	href="MUSICA-C.html"><img src="IMG/Musica.png"alt="Musica"></a>
-	<img src="IMG/Teatro.png"alt="Teatro">
+		<a	href="CINE-C.html"><img src="IMG/Peliculas.png"alt="Peliculas"></a>
+		<a	href="MUSICA-C.html"><img src="IMG/Musica.png"alt="Musica"></a>
+		<img src="IMG/Teatro.png"alt="Teatro">
 	</div>
+
 		</div>
+
 	</BODY>
 </HTML>
