@@ -43,7 +43,7 @@
 				</li>
 				<li><a href="../../../Pagina Principal/Pagina principal.html">Inicio</a> </li>
 			</ul>
-			<img src="IMG/list.png" alt="">
+			<img src="IMG/list.png" white="10%">
 		</div>
 	</center>
 
@@ -56,7 +56,47 @@
 	<br>
 	<br>
 
+	<div class="VentanaTest" id="vent">
 
+		<div id="cerrar">
+			<a href="javascript:cerrar()"> <img src="IMG/Cerrar.png" alt="Cerrar"></a>
+		</div>
+
+		<H2> Puedes Adivinar La Pelicula </h2>
+			<p> Selecciona el Nombre de la Pelicula a la que Pertenece la Imagen </p>
+	</div>
+
+  <div class="testPeliculas">
+  	<a href="javascript:abrir()">Test de Peliculas</a>
+		<script>
+			const button = document.querySelectorAll('a');
+			button.forEach(btn => {
+				btn.addEventListener('mouseenter', function(e){
+					let x = e.clientX - e.target.offsetLeft;
+					let y = e.clientY - e.target.offsetTop;
+
+					let ripples = document.createElement('span');
+					ripples.style.left = x + 'px';
+					ripples.style.Top = y + 'px';
+					this.appendChild(ripples);
+
+					setTimeout(() =>{
+						ripples.remove()
+					}, 1000);
+				})
+			})
+		</script>
+  </div>
+
+<script>
+	function abrir(){
+		document.getElementById('vent').style.display="block";
+	}
+
+	function cerrar(){
+		document.getElementById('vent').style.display="none";
+	}
+</script>
 
 	<div class="NTemas-r">
 	<a	href="RELATOS-C.html"><img src="IMG/Relatos.png"alt="Relatos"></a>
