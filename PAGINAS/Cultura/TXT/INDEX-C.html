@@ -65,7 +65,9 @@
 			<a href="javascript:cerrar()"> <img src="IMG/Cerrar.png" alt="Cerrar"></a>
 		</div>
 
-		<H2> Puedes Adivinar La Pelicula </h2>
+		  <H2> Puedes Adivinar La Pelicula </h2>
+		  <div id="Aciertos">
+		  </div>
 			<p> Selecciona el Nombre de la Pelicula a la que Pertenece la Imagen </p>
 			<img src="" alt="The Bloob" id="pelicula">
 			<div id="respuestas">
@@ -99,11 +101,13 @@
 					["Child´s Play","Wrong Turn","Boogeyman","House of Wax"], /* 1 */
 				];
 
-				Jugar();
 				var indicie_respuesta_correcta;
-				function Jugar(){
+				jugar();
+				function jugar(){
 					var num= Math.floor((Math.random()*(11-1))+1);
 					var respuestasPosibles = respuestas[num];
+
+
 				switch (num) {
 					case 1: pelicula.src=pelicula1;
 						break;
@@ -149,19 +153,32 @@
 				}
 
 				document.getElementById("respuestas").innerHTML = txt_respuestas;
-
-
 			}
 			var respuestaCorrecta;
+			var puntuacion=0;
+			var aciertos=0;
 			function comprobar(){
 				var respuesta = $("input[type = radio]:checked").val();
 				if(respuesta == indicie_respuesta_correcta){
 					alert("Correcto");
-					
+					puntuacion=puntuacion+1;
+					aciertos=aciertos+1;
+
+
 				}else{
 					alert("Incorrecto");
+					puntuacion=puntuacion+1;
 				}
-				jugar();
+				Contador ='<label>'+puntuacion+'<label>';
+				document.getElementById("Aciertos").innerHTML = Contador;
+				if (puntuacion == 10){
+					document.getElementById('vent').style.display="none";
+					alert("Felizidades tu puntuaciosn es de :"+ aciertos)
+				}
+				else {
+				 jugar();
+				}
+
 				}
 			</script>
 	</div>
