@@ -5,10 +5,35 @@
     <title>BlackCatNews</title>
     <link rel="stylesheet" href="In.css">
   </head>
-  <body background="BLC.png">
-    <div class="Entrar">
-      <a href="Pagina Principal/index.html"><h1>ENTRAR</h1></a>
-    </div>
+  <body >
+<div class="Contenido">
 
+  <div class="F-Ojos">
+    <img src="Ojos-de-Gato2.png" alt="Gatos">
+  </div>
+    <div class="Gato">
+      <img src="Ojos-de-Gato.png" alt="Gatos">
+      <div class="ojos">
+        <span class="ojo" ></span>
+        <span class="ojo" ></span>
+      </div>
+    </div>
+    <div class="Gatos">
+      <img src="Ojos-de-Gato.png" alt="Gatos">
+    </div>
+</div>
+  <script type="text/javascript">
+    document.querySelector("body").addEventListener('mousemove', eyeball);
+    function eyeball(){
+      var eye = document.querySelectorAll(".ojo");
+      eye.forEach(function (eye) {
+        let x = (eye.getBoundingClientRect().left) + (eye.clientWidth / 2);
+        let y = (eye.getBoundingClientRect().top) + (eye.clientHeight / 2);
+        let radian = Math.atan2(event.pageX - x,event.pageY - y);
+        let rot = (radian * (180 / Math.PI) * -1) + 270;
+        eye.style.transform = "rotate("+ rot +"deg)";
+      })
+    }
+  </script>
   </body>
 </html>

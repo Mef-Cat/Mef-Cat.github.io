@@ -1,9 +1,62 @@
-.Entrar{
-  display: block;
-  position: absolute;
-  top: 510px;
-  left: 630px;
+*{
+  cursor: url('P-Gato2.png'), pointer;
+
 }
-.Entrar h1{
-  color: white;
+*:active{
+  cursor: url('P-Gato.png'), pointer;
+}
+body{
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.Contenido{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Contenido .Gato img{
+  position: absolute;
+  left: 22%;
+}
+.Contenido .Gatos img{
+  position: absolute;
+  top: 1%;
+  left: 22%;
+}
+.Contenido .F-Ojos img{
+  position: absolute;
+  left: 22%;
+  top: -2.4%;
+}
+.Contenido .Gato .ojos{
+  position: relative;
+  top: 60px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Contenido .Gato .ojos .ojo {
+  position: relative;
+  width: 160px;
+  height: 160px;
+  left: 3.4%;
+  display: block;
+  margin: 0 94px;
+  background: #fff;
+  border-radius: 50%;
+}
+.Contenido .Gato .ojos .ojo:before
+{
+  content: '';
+  position: absolute;
+  top: 45%;
+  left: 25px;
+  transform: translate(-20%,-20%);
+  width: 60px;
+  height: 60px;
+  background: #333;
+  border-radius: 50%;
 }
