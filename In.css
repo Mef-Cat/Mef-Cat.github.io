@@ -60,3 +60,24 @@ body{
   background: #333;
   border-radius: 50%;
 }
+.Expreciones .Ojo-I
+{
+
+}
+.Expreciones .Ojo-I img::before
+{
+  src: url(Ojos de Gato2-Cerrados-I);
+}
+.Entrar a
+{
+  position: absolute;
+  left: 48.5%;
+  top: 75%;
+  color: #fff;
+  display: block;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background: rgba(255, 0, 0, 0.5);
+  border-radius: 40px;
+}
