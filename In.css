@@ -1,5 +1,6 @@
+
 *{
-  cursor: url('P-Gato2.png'), pointer;
+  cursor: url('P-Gato2.png'), default;
 
 }
 *:active{
@@ -27,6 +28,7 @@ body{
   top: 1%;
   left: 22%;
 }
+
 .Contenido .F-Ojos img{
   position: absolute;
   left: 22%;
@@ -48,6 +50,21 @@ body{
   background: #fff;
   border-radius: 50%;
 }
+.Gatos .OjoI{
+  position: absolute;
+  width: 150px;
+  height: 120px;
+  top: 11.5%;
+  left: 25.8%;
+  display: block;
+  margin: 0 94px;
+  background: #fff;
+  border-radius: 50%;
+}
+.Gatos .Gatoo:before
+{
+  background-image: url(Ojos-de-Gato2-Cerrados-I.png);
+}
 .Contenido .Gato .ojos .ojo:before
 {
   content: '';
@@ -60,24 +77,49 @@ body{
   background: #333;
   border-radius: 50%;
 }
-.Expreciones .Ojo-I
-{
-
-}
-.Expreciones .Ojo-I img::before
-{
-  src: url(Ojos de Gato2-Cerrados-I);
-}
 .Entrar a
 {
   position: absolute;
-  left: 48.5%;
+  left: 47%;
   top: 75%;
   color: #fff;
   display: block;
   padding: 10px;
   padding-left: 30px;
   padding-right: 30px;
-  background: rgba(255, 0, 0, 0.5);
+  background: rgba(0, 55, 255, 0.8);
   border-radius: 40px;
+  text-decoration: none;
+  font-size: 30px;
+}
+/*Texto*/
+
+.Texto p {
+  font-family: 'Lobster', cursive;
+  color: #fff;
+  font-size: 80px;
+}
+.Texto{
+  position: absolute;
+  top: 45%;
+  left: 30%;
+  text-align: center;
+}
+.Gatos .ojoIzquierdo input{
+  position: absolute;
+  top: 12%;
+  left: 34%;
+  background: #fff;
+}
+.Gatos .ojoIzquierdo input[type="button" i]{
+  width: 10%;
+  height: 15.8%;
+  transform: rotate(18deg);
+  border-style: none;
+  border-color: none;
+  border-image: none;
+  border-radius: 50%;
+  background: none;
+  background-color: none;
+  outline: none;
 }

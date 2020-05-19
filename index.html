@@ -7,37 +7,49 @@
   </head>
   <body >
 <div class="Contenido">
-
-  <div class="F-Ojos">
-    <img src="Ojos-de-Gato2.png" alt="Gatos">
-  </div>
     <div class="Gato">
-      <img src="Ojos-de-Gato.png" alt="Gatos">
       <div class="ojos">
         <span class="ojo" ></span>
         <span class="ojo" ></span>
       </div>
     </div>
+
     <div class="Gatos">
-      <img src="Ojos-de-Gato.png" alt="Gatos">
+      <img class="Gatoo" src="Ojos-de-Gato.png" alt="Gatos" id="Ojos">
+      <div class="ojoIzquierdo">
+          <input type="button" name="I" onclick="javascript:Izquierdo()"  >
+      </div>
+
     </div>
-    <div class="Expreciones">
-      <div class="Ojo-I">
-        <img>
-      </div>
-      <!--
-      <div class="Ojo-D">
-        <img src="Ojos de Gato2-Cerrados-D" alt="Ojo">
-      </div>
-      <div class="Ojo">
-        <img src="Ojos de Gato2-Cerrados-2" alt="Ojo">
-      </div>
-      -->
+
+
+    <div class="Texto">
+      <p>Black Cat News</p>
     </div>
+
     <div class="Entrar">
       <a href="Pagina Principal/index.html">Entrar</a>
     </div>
+
 </div>
+<script>
+    var ojoc= "Ojos-de-Gato2-Cerrados-2.png";
+    var ojoD = "Ojos-de-Gato2-Cerrados-D.png";
+
+    var ojo = "Ojos-de-Gato.png";
+
+
+
+    function Izquierdo()
+    {
+      var ojoI = "Ojos de Gato2-Cerrados-I.png";
+      Ojos.src = ojoI;
+      var delayInMilliseconds = 1000;
+        setTimeout(function Normal(){
+          Ojos.src = "Ojos-de-Gato.png";
+        }, delayInMilliseconds)
+    }
+</script>
   <script type="text/javascript">
     document.querySelector("body").addEventListener('mousemove', eyeball);
     function eyeball(){
