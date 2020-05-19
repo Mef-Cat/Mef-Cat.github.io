@@ -123,3 +123,40 @@ body{
   background-color: none;
   outline: none;
 }
+
+.Gatos .ojoIDerecho input{
+  position: absolute;
+  top: 12%;
+  right: 30.4%;
+  background: #fff;
+}
+.Gatos .ojoIDerecho input[type="button" i]{
+  width: 10%;
+  height: 15.8%;
+  transform: rotate(165deg);
+  border-style: none;
+  border-color: none;
+  border-image: none;
+  border-radius: 50%;
+  background: none;
+  background-color: none;
+  outline: none;
+}
+
+.Gatos .Nariz input{
+  position: absolute;
+  top: 36%;
+  right: 44.4%;
+  background: #fff;
+}
+.Gatos .Nariz input[type="button" i]{
+  width: 7%;
+  height: 8%;
+  border-style: none;
+  border-color: none;
+  border-image: none;
+  border-radius: 50%;
+  background: none;
+  background-color: none;
+  outline: none;
+}

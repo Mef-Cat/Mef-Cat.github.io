@@ -19,7 +19,12 @@
       <div class="ojoIzquierdo">
           <input type="button" name="I" onclick="javascript:Izquierdo()"  >
       </div>
-
+      <div class="ojoIDerecho">
+          <input type="button" name="D" onclick="javascript:Derecho()"  >
+      </div>
+      <div class="Nariz">
+          <input type="button" name="N" onclick="javascript:Nariz()"  >
+      </div>
     </div>
 
 
@@ -33,18 +38,29 @@
 
 </div>
 <script>
-    var ojoc= "Ojos-de-Gato2-Cerrados-2.png";
-    var ojoD = "Ojos-de-Gato2-Cerrados-D.png";
-
-    var ojo = "Ojos-de-Gato.png";
-
-
-
     function Izquierdo()
     {
       var ojoI = "Ojos de Gato2-Cerrados-I.png";
       Ojos.src = ojoI;
-      var delayInMilliseconds = 1000;
+      var delayInMilliseconds = 800;
+        setTimeout(function Normal(){
+          Ojos.src = "Ojos-de-Gato.png";
+        }, delayInMilliseconds)
+    }
+    function Derecho()
+    {
+      var ojoD = "Ojos de Gato2-Cerrados-D.png";
+      Ojos.src = ojoD;
+      var delayInMilliseconds = 800;
+        setTimeout(function Normal(){
+          Ojos.src = "Ojos-de-Gato.png";
+        }, delayInMilliseconds)
+    }
+    function Nariz()
+    {
+      var ojoc= "Ojos de Gato2-Cerrados-2.png";
+      Ojos.src = ojoc;
+      var delayInMilliseconds = 800;
         setTimeout(function Normal(){
           Ojos.src = "Ojos-de-Gato.png";
         }, delayInMilliseconds)
