@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Practica de JavaScriptt</title>
+        <link rel="stylesheet" type="text/css" href="Estilos.css">
+    </head>
+    <body>
+      <div class="Contenido">
+        <div class="Frase">
+          <form name="Enca" method="GET" class="Enca">
+              <b>Porque tu opinión nos interesa...</b>
+          </form>
+        </div>
+        <form id="Miform" action="" name="formulario" method="get" class="formulario">
+            <h1 class="formulario_titulo">Necesitamos tu opinión o alguna sugerencia para nuestro sitio</h1>
+            <div class="TextBox">
+              <input type="text" name="nombre" id="nombre" maxlength="60" class="formulario_texto" placeholder="Nombre"><br>
+            </div>
+            <br>
+            <div class="TextBox">
+            <input type="text" name="correo" id="correo" maxlength="60" class="formulario_texto" placeholder=" Correo electrónico "><br>
+            </div>
+            <br>
+            <div class="TextBox">
+            <input type="text" name="like" id="like" class="formulario_texto"placeholder=" Que le gusto de esta página... ">
+            <br>
+            </div>
+            <br>
+            <div class="TextBox">
+            <input type="text" name="like2" id="like2" maxlength="60" class="formulario_texto"placeholder=" Que no le gusto de esta página... "><br>
+            </div>
+            <br>
+            <div class="TextBox">
+            <input type="text" name="suge" id="suge" maxlength="60" class="formulario_texto"placeholder=" Sugerencia para mi página "><br>
+            </div>
+            <br>
+            <b>CALIFICACIÓN</b>
+            <p class="clasificacion">
+                   <input id="radio1" type="radio" name="estrellas" value="5"><!--
+                --><label for="radio1">★</label><!--
+                --><input id="radio2" type="radio" name="estrellas" value="4"><!--
+                --><label for="radio2">★</label><!--
+                --><input id="radio3" type="radio" name="estrellas" value="3"><!--
+                --><label for="radio3">★</label><!--
+                --><input id="radio4" type="radio" name="estrellas" value="2"><!--
+                --><label for="radio4">★</label><!--
+                --><input id="radio5" type="radio" name="estrellas" value="1"><!--
+                --><label for="radio5">★</label>
+            </p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div class="Boton">
+            <input type="checkbox" name="terminos" id="terminos">Estoy de acuerdo con mis respuestas<br>
+            </div>
+            <br>
+            <input type="submit" name="btn" id="btn" value="Enviar" class="formulario_submit">
+            <input type="reset" name="btn1" id="btn1" value="Borrar los datos introducidos" class="formulario_submit">
+        </form>
+        <script type="text/javascript">
+            (function(){
+            var formulario=document.getElementsByName('formulario')[0];
+            elementos=formulario.elements,
+            boton=document.getElementById('btn');
+
+            var validarNombre=function(e){
+                if(formulario.nombre.value==0){
+                    alert("Ingrese su nombre");
+                    e.preventDefault();
+                }
+            };
+
+            var validarcorreo=function(e){
+                if(formulario.correo.value==0){
+                    alert("Ingrese su correo para nuestras notificaciones");
+                    e.preventDefault();
+                }
+            };
+
+            var validarlike=function(e){
+                if(formulario.like.value==0){
+                    alert("Que te gusto de esta página?");
+                    e.preventDefault();
+                }
+            };
+
+            var validarlike2=function(e){
+                if(formulario.like2.value==0){
+                    alert("Que no te gusto de esta página?");
+                    e.preventDefault();
+                }
+            };
+
+            var validarsuge=function(e){
+                if(formulario.suge.value==0){
+                    alert("Danos una sugerencia para mejorar nuestro sitio");
+                    e.preventDefault();
+                }
+            };
+
+            var validarTerminos=function(e){
+                if (formulario.terminos.checked==false)
+                {
+                    alert("Estas de acuerdo con tus respuestas?");
+                    e.preventDefault();
+                }
+            }
+
+            var validar=function(e){
+                validarNombre(e);
+                validarcorreo(e);
+                validarlike(e);
+                validarlike2(e);
+                validarsuge(e);
+                validarTerminos(e);
+            };
+
+            formulario.addEventListener("submit",validar)
+            }())
+            function limpiarFormulario() {
+                document.getElementById("Miform").reset();
+            }
+        </script>
+        </div>
+    </body>
+</html>
