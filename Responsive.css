@@ -1,4 +1,4 @@
-
+@media screen  and (max-width:1000px) {
 *{
   cursor: url('P-Gato2.png'), default;
 
@@ -44,7 +44,7 @@ body{
   position: relative;
   width: 160px;
   height: 160px;
-  left: 1.5%;
+  left: 3.1%;
   display: block;
   margin: 0 94px;
   background: #fff;
@@ -176,4 +176,5 @@ body{
   background: none;
   background-color: none;
   outline: none;
+}
 }
